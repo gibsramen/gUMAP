@@ -1,6 +1,6 @@
-UMAP - Gower
+UMAP - Gower - aaaaahhhh
 
-<iframe src="/html/pokemon_gower.html"
+<iframe src="html/pokemon_gower.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
