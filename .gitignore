@@ -1,4 +1,5 @@
 *.DS_Store
 *.swp
 *.swo
+*/.ipynb_checkpoints/
 data/
