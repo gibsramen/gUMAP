@@ -1,5 +1,6 @@
 *.DS_Store
 *.swp
 *.swo
+*.pdf
+data/raw/pokemon/imgs/
 */.ipynb_checkpoints/
-data/
