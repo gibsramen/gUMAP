@@ -45,4 +45,6 @@ Below are a series of plots of this projection annotated by their features. I wa
 
 ![pokemon by body style](../figures/gUMAP_pokemon_location_by_body_style.png)
 
+[One-hot encoding](pokemon_one_hot.md)
+
 [Back to home](../index.md)
